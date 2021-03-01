@@ -7,7 +7,7 @@ aims to help researchers speed up their exploration process for finding the righ
 model architecture for their classification problems (i.e., DNNs with different types of layers).
 
 The library enables you to: /*1st comment in branch1, 2nd comment in branch1, 3d comment in branch1*/
-/*clone comment1, clone comment2*/
+/*clone comment1, clone comment2, clone comment3*/
 
 * Run many AutoML algorithms out of the box on your data - including automatically searching
 for the right model architecture, the right ensemble of models
